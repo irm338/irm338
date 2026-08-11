@@ -1,24 +1,34 @@
 
 <div align="center">
-
   
   <a href="https://github.com/Irm338">
-    <img src="https://github.com/Irm338.png" alt="Irma Yaneht Arias García" width="160" height="160" style="border-radius: 50%; border: 4px solid #38BDF8; box-shadow: 0px 0px 25px rgba(56, 189, 248, 0.4);" />
+    <img src="https://github.com/Irm338.png" alt="Irma Yaneht Arias García" width="170" height="170" style="border-radius: 30px; border: 3px solid #38BDF8; box-shadow: 0px 10px 30px rgba(56, 189, 248, 0.4);" />
   </a>
 
-  <h1>✨ ¡Hola, soy Irma Yaneht Arias García! 🚀</h1>
   
-  <p><em>🎯 Estudiante de Programación y Desarrollo Web en <b>Campuslands</b></em></p>
+  <h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/giticons/wave.gif" width="30"> ¡Hola, soy <span style="color: #38BDF8;">Irma Yaneht Arias García</span>! 🚀</h1>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Status-Estudiante_Activa_en_Campuslands-38BDF8?style=for-the-badge&logo=codeforces&logoColor=white" alt="Campuslands">
+  </p>
 
 </div>
 
 ---
 
-## 💡 ¿Quién es Irma?
+## 💡 ¿Quién soy?
 
 <div align="center">
 
-> *"Estudiante de programación y desarrollo web con sólida formación en electrónica industrial. Enfocada en el aprendizaje continuo y en la aplicación práctica de tecnologías front-end y backend. Persona creativa, empática, organizada y responsable, con capacidad para integrarme de manera efectiva en equipos de trabajo y dispuesta a asumir nuevos retos tecnológicos."*
+<table>
+  <tr>
+    <td width="800">
+      <p align="center"><em>
+        "Estudiante de programación y desarrollo web con sólida formación en electrónica industrial. Enfocada en el aprendizaje continuo y en la aplicación práctica de tecnologías front-end y backend. Persona creativa, empática, organizada y responsable, con capacidad para integrarme de manera efectiva en equipos de trabajo y dispuesta a asumir nuevos retos tecnológicos."
+      </em></p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -39,11 +49,11 @@
 
 </div>
 
-### 🌟 Habilidades Blandas y Profesionales
-* **🧠 Resolución de Problemas:** Enfoque analítico heredado de la electrónica y la programación.
-* **🤝 Trabajo en Equipo:** Colaboración efectiva, comunicación asertiva y empatía.
-* **⚡ Adaptabilidad:** Alta disposición para asumir nuevos retos tecnológicos y metodologías ágiles.
-* **📈 Organización:** Estricta gestión del tiempo y control de proyectos formativos.
+### ✨ Habilidades Blandas y Competencias
+* **🧠 Resolución Analítica:** Enfoque lógico heredado de la electrónica y la programación de sistemas.
+* **🤝 Trabajo en Equipo:** Colaboración activa, comunicación asertiva y empatía profesional.
+* **⚡ Adaptabilidad:** Alta disposición para aprender y dominar nuevas tecnologías ágilmente.
+* **📈 Organización:** Estricta gestión del tiempo para el éxito en cada proyecto formativo.
 
 ---
 
@@ -92,5 +102,5 @@
 ---
 
 <div align="center">
-  <p><em>Diseñado con pasión, creatividad y rigor técnico. © 2026 Irma Yaneht Arias García.</em></p>
+  <p><em>Diseñado con pasión, estilo y rigor técnico. © 2026 Irma Yaneht Arias García.</em></p>
 </div>
