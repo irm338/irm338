@@ -2,25 +2,33 @@
 <div align="center">
 
   
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=%C2%A1Hola!+Soy+Irma+Yaneht+Arias+Garc%C3%ADa+%F0%9F%9A%80;Estudiante+de+Programaci%C3%B3n+y+Desarrollo+Web+en+Campuslands" alt="Typing SVG" />
-  </h1>
-
-  
   <a href="https://github.com/Irm338">
-    <img src="https://github.com/Irm338.png" alt="Foto de Irma Arias" width="150" height="150" style="border-radius: 50%; border: 3px solid #38BDF8;" />
+    <img src="https://github.com/Irm338.png" alt="Irma Yaneht Arias García" width="160" height="160" style="border-radius: 50%; border: 4px solid #38BDF8; box-shadow: 0px 0px 25px rgba(56, 189, 248, 0.4);" />
   </a>
 
-  <p><em>🚀 Este repositorio centraliza mis proyectos formativos y evidencias técnicas desarrolladas durante mi entrenamiento profesional.</em></p>
+  <h1>✨ ¡Hola, soy Irma Yaneht Arias García! 🚀</h1>
+  
+  <p><em>🎯 Estudiante de Programación y Desarrollo Web en <b>Campuslands</b></em></p>
 
 </div>
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 💡 ¿Quién es Irma?
 
 <div align="center">
 
+> *"Estudiante de programación y desarrollo web con sólida formación en electrónica industrial. Enfocada en el aprendizaje continuo y en la aplicación práctica de tecnologías front-end y backend. Persona creativa, empática, organizada y responsable, con capacidad para integrarme de manera efectiva en equipos de trabajo y dispuesta a asumir nuevos retos tecnológicos."*
+
+</div>
+
+---
+
+## 🛠️ Stack Tecnológico & Habilidades
+
+<div align="center">
+
+  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -30,6 +38,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
 </div>
+
+### 🌟 Habilidades Blandas y Profesionales
+* **🧠 Resolución de Problemas:** Enfoque analítico heredado de la electrónica y la programación.
+* **🤝 Trabajo en Equipo:** Colaboración efectiva, comunicación asertiva y empatía.
+* **⚡ Adaptabilidad:** Alta disposición para asumir nuevos retos tecnológicos y metodologías ágiles.
+* **📈 Organización:** Estricta gestión del tiempo y control de proyectos formativos.
 
 ---
 
@@ -77,19 +91,6 @@
 
 ---
 
-## 📊 Estadísticas y Racha de GitHub
-
 <div align="center">
-
-  
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Irm338&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
-
-</div>
-
----
-
-<div align="center">
-  <p><em>Diseñado con pasión y rigor técnico. © 2026 Irma Yaneht Arias García.</em></p>
+  <p><em>Diseñado con pasión, creatividad y rigor técnico. © 2026 Irma Yaneht Arias García.</em></p>
 </div>
