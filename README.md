@@ -78,10 +78,8 @@
 <div align="center">
   <p><em>Diseñado con pasión y rigor técnico. © 2026 Irma Yaneht Arias García.</em></p>
   
-  <!-- Estadísticas de GitHub dinámicas para darle más vida -->
+  
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Irm338&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </p>
 </div>
-
-
