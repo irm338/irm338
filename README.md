@@ -1,4 +1,28 @@
-# Portafolio de Desarrollo Web - Irma Yaneht Arias García 🚀
+#  Irma Yaneht Arias García 🚀
+
+name: Generate 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+      - uses: irm338/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: irm338
+      - name: Commit generated profile assets
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: update 3d contribution calendar"
+          file_pattern: profile-3d-contrib/*.svg
 
 ¡Hola! Soy **Irma Yaneht Arias García**, estudiante de programación y desarrollo web en **Campuslands**. Este repositorio centraliza mis proyectos formativos y evidencias técnicas desarrolladas durante mi entrenamiento profesional.
 
