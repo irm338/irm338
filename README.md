@@ -1,5 +1,4 @@
 
-
 <h1 align="center">¡Hola, soy Irma Yaneht Arias García! 🚀</h1>
 
 <p align="center">
@@ -19,21 +18,22 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,sqlite,git,github,nodejs,postman,docker,vscode&theme=dark" alt="Tech Stack">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRN338&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs">
-</p>
+### 📈 Gráfica de Dominios Técnicos
+
+<code>HTML5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code> `████████████████████` **88%**  
+<code>CSS3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code> `█████████████████░░` **80%**  
+<code>JavaScript &nbsp;</code> `███████████████░░░░` **75%**  
+<code>Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code> `████████████░░░░░░░` **65%**  
+<code>SQL / SQLite</code> `█████████████░░░░░░` **70%**  
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 🌟 Habilidades Blandas & Competencias
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IRN338&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/streak-stats/?username=IRN338&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
+<code>Resolución Analítica</code> `██████████████████░` **90%**  
+<code>Trabajo en Equipo &nbsp;</code> `████████████████████` **95%**  
+<code>Adaptabilidad &nbsp;&nbsp;&nbsp;&nbsp;</code> `████████████████░░░` **80%**  
+<code>Organización &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code> `██████████████████░` **90%**  
 
 ---
 
@@ -62,7 +62,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/REPOSITORIOS-ACTIVOS-blue?style=flat-square&logo=git&logoColor=white" alt="Repos">
   <img src="https://img.shields.io/badge/COMMITS-EN_PROCESO-green?style=flat-square&logo=github&logoColor=white" alt="Commits">
-  <img src="https://img.shields.io/badge/ENFOQUE-FULLSTACK%20%26%2B%20BACKEND-orange?style=flat-square&logo=codeigniter&logoColor=white" alt="Enfoque">
+  <img src="https://img.shields.io/badge/ENFOQUE-FULLSTACK%20%26%20BACKEND-orange?style=flat-square&logo=codeigniter&logoColor=white" alt="Enfoque">
 </p>
 
 ---
