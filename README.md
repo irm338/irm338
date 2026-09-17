@@ -96,3 +96,45 @@
 <p align="center">
   <em>Diseñado con pasión, estilo y rigor técnico. © 2026 Irma Yaneht Arias García.</em>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/platane/output/github-contribution-grid-snake.svg" alt="Animación de serpiente" />
+</p>
+
+
+
+### 📊 Mis estadísticas en gráficos
+
+<!-- Tarjeta de resumen general y gráfico de contribuciones -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irm338&theme=radical" />
+
+<!-- Gráfico de commits por hora del día -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day-hour?username=irm338&theme=radical" />
+
+<!-- Tarjeta de lenguajes más usados por commit -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irm338&theme=radical" />
+
+<!-- Tarjeta de lenguajes más usados por repositorio -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irm338&theme=radical" />
+
+<!-- Estadísticas generales -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irm338&theme=radical" />
+
+
+
+
+<h3 align="center">⚡ Perfil y Estadísticas de Actividad</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=irm338&style=flat-square&color=ff79c6" alt="Visitas al perfil" />
+</p>
+
+---
+
+
+
+---
+
+### 📊 Actividad en GitHub
+
+[![Racha de Commits](https://github-readme-streak-stats.herokuapp.com?user=irm338&theme=radical&hide_border=true)](https://git.io/streak-stats)
