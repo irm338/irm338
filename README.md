@@ -64,10 +64,15 @@
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 📈 Estadísticas y Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irm338&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Irma's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=irm338&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irm338&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irm338&theme=tokyo-night&bg_color=1a1b26&color=58a6ff&line=3fb950&point=f0883e&area=true" alt="Activity Graph" />
 </p>
 
 ---
