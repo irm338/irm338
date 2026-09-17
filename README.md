@@ -1,5 +1,4 @@
 
-
 <h1 align="center">¡Hola, soy Irma Yaneht Arias García! 🚀</h1>
 
 <p align="center">
@@ -16,7 +15,8 @@
 ### 💻 Stack Tecnológico & Habilidades
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,sqlite,git,github,nodejs,postman,docker,vscode&theme=dark" alt="Tech Stack">
+  <!-- Aquí se descartaron los iconos que seleccionaste, dejando solo los principales -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,github&theme=dark" alt="Tech Stack">
 </p>
 
 ---
@@ -38,10 +38,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-65%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/progress-████████████░░░░-3776AB?style=for-the-badge&color=111111" alt="bar">
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/SQLITE-70%25-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/progress-█████████████░░░-003B57?style=for-the-badge&color=111111" alt="bar">
 </p>
 
 ---
