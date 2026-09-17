@@ -64,11 +64,12 @@
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 🚀 Estado del Perfil
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irm338&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irm338&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Repositorios-Activos-blue?style=for-the-badge&logo=github" alt="Repositorios" />
+  <img src="https://img.shields.io/badge/Commits-En_Proceso-success?style=for-the-badge&logo=git" alt="Commits" />
+  <img src="https://img.shields.io/badge/Enfoque-Fullstack_&_Backend-orange?style=for-the-badge&logo=codeforces" alt="Enfoque" />
 </p>
 
 ---
