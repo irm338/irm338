@@ -1,4 +1,5 @@
 
+
 <h1 align="center">¡Hola, soy Irma Yaneht Arias García! 🚀</h1>
 
 <p align="center">
@@ -18,22 +19,41 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,sqlite,git,github,nodejs,postman,docker,vscode&theme=dark" alt="Tech Stack">
 </p>
 
+---
+
 ### 📈 Gráfica de Dominios Técnicos
 
-<code>HTML5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code> `████████████████████` **88%**  
-<code>CSS3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code> `█████████████████░░` **80%**  
-<code>JavaScript &nbsp;</code> `███████████████░░░░` **75%**  
-<code>Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code> `████████████░░░░░░░` **65%**  
-<code>SQL / SQLite</code> `█████████████░░░░░░` **70%**  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-88%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/progress-████████████████████-E34F26?style=for-the-badge&color=111111" alt="bar">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/CSS3-80%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/progress-█████████████████░-1572B6?style=for-the-badge&color=111111" alt="bar">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
+  <img src="https://img.shields.io/badge/progress-███████████████░░-F7DF1E?style=for-the-badge&color=111111" alt="bar">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-65%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/progress-████████████░░░░-3776AB?style=for-the-badge&color=111111" alt="bar">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/SQLITE-70%25-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/progress-█████████████░░░-003B57?style=for-the-badge&color=111111" alt="bar">
+</p>
 
 ---
 
 ### 🌟 Habilidades Blandas & Competencias
 
-<code>Resolución Analítica</code> `██████████████████░` **90%**  
-<code>Trabajo en Equipo &nbsp;</code> `████████████████████` **95%**  
-<code>Adaptabilidad &nbsp;&nbsp;&nbsp;&nbsp;</code> `████████████████░░░` **80%**  
-<code>Organización &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code> `██████████████████░` **90%**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Resoluci%C3%B3n_Anal%C3%ADtica-90%25-purple?style=for-the-badge" alt="Analitica">
+  <img src="https://img.shields.io/badge/Trabajo_en_Equipo-95%25-success?style=for-the-badge" alt="Equipo">
+  <img src="https://img.shields.io/badge/Adaptabilidad-80%25-blue?style=for-the-badge" alt="Adaptabilidad">
+  <img src="https://img.shields.io/badge/Organizaci%C3%B3n-90%25-orange?style=for-the-badge" alt="Organizacion">
+</p>
 
 ---
 
