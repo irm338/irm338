@@ -15,7 +15,6 @@
 ### 💻 Stack Tecnológico & Habilidades
 
 <p align="center">
-  <!-- Aquí se descartaron los iconos que seleccionaste, dejando solo los principales -->
   <img src="https://skillicons.dev/icons?i=html,css,js,python,github&theme=dark" alt="Tech Stack">
 </p>
 
