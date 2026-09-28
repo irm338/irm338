@@ -101,27 +101,34 @@
   <img src="https://raw.githubusercontent.com/Platane/platane/output/github-contribution-grid-snake.svg" alt="Animación de serpiente" />
 </p>
 
-
+---
 
 ### 📊 Mis estadísticas en gráficos
 
+<div align="center">
+
 <!-- Tarjeta de resumen general y gráfico de contribuciones -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irm338&theme=radical" />
+<br>
 
 <!-- Gráfico de commits por hora del día -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day-hour?username=irm338&theme=radical" />
+<br>
 
 <!-- Tarjeta de lenguajes más usados por commit -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irm338&theme=radical" />
+<br>
 
 <!-- Tarjeta de lenguajes más usados por repositorio -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irm338&theme=radical" />
+<br>
 
 <!-- Estadísticas generales -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irm338&theme=radical" />
 
+</div>
 
-
+---
 
 <h3 align="center">⚡ Perfil y Estadísticas de Actividad</h3>
 
@@ -131,10 +138,10 @@
 
 ---
 
-
-
----
-
 ### 📊 Actividad en GitHub
 
-[![Racha de Commits](https://github-readme-streak-stats.herokuapp.com?user=irm338&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=irm338&theme=radical&hide_border=true" alt="Racha de Commits" />
+  </a>
+</div>
