@@ -107,24 +107,18 @@
 
 <div align="center">
 
-<!-- Tarjeta de resumen general y gráfico de contribuciones -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irm338&theme=radical" />
+<!-- Fila 1: Resumen de perfil y Gráfico de commits por hora -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irm338&theme=radical" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day-hour?username=irm338&theme=radical" width="48%" />
 <br>
 
-<!-- Gráfico de commits por hora del día -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day-hour?username=irm338&theme=radical" />
+<!-- Fila 2: Lenguajes por commit y Lenguajes por repositorio -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irm338&theme=radical" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irm338&theme=radical" width="48%" />
 <br>
 
-<!-- Tarjeta de lenguajes más usados por commit -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irm338&theme=radical" />
-<br>
-
-<!-- Tarjeta de lenguajes más usados por repositorio -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irm338&theme=radical" />
-<br>
-
-<!-- Estadísticas generales -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irm338&theme=radical" />
+<!-- Fila 3: Estadísticas generales (centrada sola o puedes combinarla si gustas) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irm338&theme=radical" width="48%" />
 
 </div>
 
